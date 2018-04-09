@@ -1,0 +1,23 @@
+{
+  "name": "seksek_bot",
+  "version": "1.0.0",
+  "description": "The seksek team bot",
+  "main": "index.js",
+  "dependencies": {
+    "slackbots": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zer0nim/seksek_bot.git"
+  },
+  "author": "emarin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zer0nim/seksek_bot/issues"
+  },
+  "homepage": "https://github.com/zer0nim/seksek_bot#readme"
+}
