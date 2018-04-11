@@ -1,4 +1,10 @@
 # seksek_bot
 
-You need to add your slack bot token in config.js with content:
-exports.TOKEN = 'your-token-here'
+You need to add your config.js file with this content:
+exports.CLIENT_ID = your clientid app;
+exports.CLIENT_SECRET = your client secret;
+exports.TOKEN = your token;
+exports.REDIRECT_URI = your redirect url;
+exports.PORT = your node js port
+exports.VIEW_FOLDER = your view folder location;
+
