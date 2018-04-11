@@ -4,9 +4,15 @@
   "description": "The seksek team bot",
   "main": "index.js",
   "dependencies": {
-    "slackbots": "^1.1.0"
+	"extend": "^2.0.1",
+	"lodash": "^4.17.2",
+	"request": "^2.56.0",
+	"vow": "^0.4.9",
+	"ws": "^1.0.1"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "nodemon": "^1.17.3"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
