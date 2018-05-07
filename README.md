@@ -23,14 +23,20 @@ exports.VIEW_FOLDER = your_view_folder_location;
 ```
 
 ### Install node dependencies
-`$> npm install`
+```
+$> npm install
+```
 
 ### Launch your node server
-`$> node index.js`
+```
+$> node index.js
+```
 
 or
 
-`$> nodemon index.js`
+```
+$> nodemon index.js
+```
 
 ## Functionality
 
