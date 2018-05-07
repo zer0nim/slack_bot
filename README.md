@@ -49,18 +49,18 @@ $> nodemon index.js
 **/strrev** `string`
 
 Reverse string
-<br/>
+<br/><br/>
 
 **/rot42** `string`
 
 Rotate string letter 42 time
-<br/>
+<br/><br/>
 
 
 **/decode_rot42** `string`
 
 Cancel rot42
-<br/>
+<br/><br/>
 
 
 ![slackbot_1](../assets/slackbot_1.png)
