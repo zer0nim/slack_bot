@@ -9,17 +9,21 @@ https://api.slack.com/apps
 
 Add your config in config.js with:
 ```javascript
-exports.CLIENT_ID = your_clientid_app;
+exports.CLIENT_ID = Client_Secret;
 
-exports.CLIENT_SECRET = your_client_secret;
+exports.CLIENT_SECRET = Client_Secret;
 
-exports.TOKEN = your_token;
+exports.TOKEN = OAuth_Access_Token;
 
-exports.REDIRECT_URI = your_redirect_url;
+exports.TOKEN2 = Bot_User_OAuth_Access_Token;
 
-exports.PORT = your_server_port
+exports.VERIF_TOKEN = Verification_Token;
 
-exports.VIEW_FOLDER = your_view_folder_location;
+exports.REDIRECT_URI = Redirect_Url;
+
+exports.PORT = Server_Port
+
+exports.VIEW_FOLDER = "/home/ernest/seksek_bot_v2/view";
 ```
 
 Install node dependencies
