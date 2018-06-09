@@ -1,4 +1,4 @@
-# seksek_bot
+# slack_bot
 
 Just to learn how slackbot api work
 
